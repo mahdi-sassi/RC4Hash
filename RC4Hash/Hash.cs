@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class Hash
+    public class Hash
     {
         public string hash(string value)
         {
